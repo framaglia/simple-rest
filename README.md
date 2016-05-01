@@ -1,2 +1,2 @@
 # simple-rest
-This is an example on how to build a REST service using Apache cxf.
+Easy implementation of a REST consumer and producer using Spring
