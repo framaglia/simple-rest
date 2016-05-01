@@ -11,7 +11,6 @@ public class Quote {
     private String author;
     private URL background;
 
-
     public Quote() {
 
     }

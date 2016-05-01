@@ -11,7 +11,6 @@ public class QuoteConsumer {
     private final Logger log = Logger.getLogger(QuoteConsumer.class);
     private final RestTemplate restTemplate;
 
-
     public QuoteConsumer() {
         this.restTemplate = new RestTemplate();
     }

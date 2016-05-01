@@ -1,8 +1,6 @@
 package service.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-
-import java.net.URL;
 import java.util.List;
 
 @JsonIgnoreProperties
@@ -13,7 +11,6 @@ public class Content {
     public Content() {
 
     }
-
 
     public List<Quote> getQuotes() {
         return quotes;
